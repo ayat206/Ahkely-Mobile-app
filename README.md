@@ -4,3 +4,4 @@
 ![WhatsApp_Image_2024-06-27_at_14 42 06_db9ccd97](https://github.com/user-attachments/assets/c6e86e0d-83af-40d0-a5c6-a0d77c4fa62f)
 ![WhatsApp_Image_2024-06-27_at_16 15 42_18cb109b](https://github.com/user-attachments/assets/ab00423d-2c6f-47d8-8c49-5c807cac7b91)
 ![WhatsApp_Image_2024-06-27_at_16 12 17_65b67e22](https://github.com/user-attachments/assets/90b1e985-7a9b-4c22-98fe-3a6e4adb5a87)
+![Gantt_Chart_Project_Timeline_Graph_2](https://github.com/user-attachments/assets/dca12c7a-9ed1-4960-9fac-77d2999d3a1c)
